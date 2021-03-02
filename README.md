@@ -1,1 +1,1 @@
-# Bank automation with Java and Java DB
+# Bank automation with Java
